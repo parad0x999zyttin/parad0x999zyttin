@@ -1,4 +1,4 @@
-### Hi there 👋
+ccccccccccccccccccc### Hi there 👋
 
 <!--
 **parad0x999zyttin/parad0x999zyttin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Great cause requires determination, ability, organization and sense of responsibility.
+
